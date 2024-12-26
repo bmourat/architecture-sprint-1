@@ -34,3 +34,8 @@
     - Информационное окно
     - Хедер
     - Футер
+
+
+# 2. Задание: Разбиение монолита на микросервисы
+
+https://drive.google.com/file/d/1tjGQ6cuL-fbZ9S_Kg3_3WQtrqVI9IXcr/view?usp=sharing
